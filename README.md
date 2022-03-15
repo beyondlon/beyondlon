@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @beyondlon
-- 👀 I’m interested in ... Security Work's
-- 🌱 I’m currently learning ...Git
-- 💞️ I’m looking to collaborate on ...Project's
-- 📫 How to reach me ...
+- 👀 I’m interested in Security Work's
+- 🌱 I Don't Even Know What I Am Currently Learning
+- 💞️ I’m looking to collaborate on Project's
+- 📫 ReachMe Via https://beyondlon.github.io
 
 <!---
 beyondlon/beyondlon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
