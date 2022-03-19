@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @beyondlon
-- 👀 I’m interested in Security Work's
-- 🌱 I Don't Even Know What I Am Currently Learning
-- 💞️ I’m looking to collaborate on Project's
+- 👋 Hi, I’m @BeyondLon
+- 👀 Interested In Security Work's
+- 🌱 Don't Even Know What I'm Learning
+- 💞️ looking to collaborate on Project's
 - 📫 ReachMe Via https://beyondlon.github.io
 
 <!---
