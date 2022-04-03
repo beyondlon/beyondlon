@@ -1,15 +1,14 @@
-Hi 👋, I'm BeyondLon<br>
-Still Learning New Stuff FOSS Supporter And Tech Enthusiast With A Diff- Vision.
+<h2>Hello,</h2><br>
+<h1>I'm BeyondLon</h1><br>
+<h4>Still Learning New Stuff FOSS Supporter And Tech Enthusiast With A Diff- Vision.</h4><br>
 
-- 🔭 Currently working on [Some Work's](https://github.com/beyondlon)
-
-- 🌱 Currently learning **Git**
+- 🌱 Currently learning **SomeThing Crazy**
 
 - 🔭 Looking to collaborate on [Project's](https://github.com/beyondlon)
 
-- 📝 I Yearly write articles on [https://beyondlon.github.io](https://beyondlon.github.io)
+- 📝 I write articles on [My Page](https://beyondlon.github.io)
 
-- 📫 How to reach me **personal@albins.slmail.me**
+- 📫 Reach me via **personal@albins.slmail.me**
 
 
 
