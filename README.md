@@ -3,4 +3,4 @@
 - 🌱 Currently learning Something Crazy
 - 💞️ Looking to collaborate on Project's
 - 📝 I write articles on [My Page](https://beyondlon.github.io)
-- 📫 Reach me ...
+- 📫 Reach me via The Above Page
